@@ -24,5 +24,5 @@
 - Secure a Data Scientist Internship
 
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/rishiraj2310/
+- LinkedIn: https://www.linkedin.com/in/rishiraj2323/
 - email: rishiraj23784@gmail.com
