@@ -3,7 +3,7 @@
 ## About Me
 
 - 🎓 B.Tech 4th Year Data Science Student
-- 📊 Aspiring Data Scientist
+- 📊 Data Analytics & Data Science Enthusiast
 - 📍 Jamshedpur, Jharkhand, India
 
 ## Skills
