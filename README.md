@@ -4,7 +4,7 @@
 
 - 🎓 B.Tech 4th Year Data Science Student
 - 📊 Data Analytics & Data Science Enthusiast
-- 📍 Jamshedpur, Jharkhand, India
+- 📍 Jharkhand, India
 
 ## Skills
 - PostgreSQL
