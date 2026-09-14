@@ -18,7 +18,7 @@
 
 ## Goals for 2026
 
-- Build 15+ Data Science Projects
+- Build at least 10 Data Science Projects
 - Learn Advanced Python for Data Analysis
 - Create a Professional Data Scientist Portfolio
 - Secure a Data Scientist Internship
