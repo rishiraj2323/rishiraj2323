@@ -16,13 +16,6 @@
 - Machine Learning
 - Git & GitHub
 
-## Goals for 2026
-
-- Build at least 10 Data Science Projects
-- Learn Advanced Python for Data Analysis
-- Create a Professional Data Scientist Portfolio
-- Secure a Data Scientist Internship
-
 ## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/rishiraj2323/
 - email: rishiraj23784@gmail.com
